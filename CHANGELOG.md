@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.0.0-beta.18](https://github.com/arcjet/arcjet-js/compare/v1.0.0-beta.17...v1.0.0-beta.18) (2026-01-15)
+
+
+### 📝 Documentation
+
+* **contributing:** describe publish flow ([#5622](https://github.com/arcjet/arcjet-js/issues/5622)) ([6921e4c](https://github.com/arcjet/arcjet-js/commit/6921e4c5066ff492a4e7761a6b4bcc7c481b6459))
+
+
+### 🔨 Build System
+
+* **publish:** remove tag event ([#5623](https://github.com/arcjet/arcjet-js/issues/5623)) ([83df410](https://github.com/arcjet/arcjet-js/commit/83df410f1bab5856a882ad318258945cc9174c20))
+
 ## [1.0.0-beta.17](https://github.com/arcjet/arcjet-js/compare/v1.0.0-beta.16...v1.0.0-beta.17) (2026-01-13)
 
 
